@@ -31,7 +31,8 @@ Make sure you have Node.js and npm installed on your machine.
    
 
    ```bash
-   cd 
+   cd cd Slash-Task-Intern
+
 
 4. Install dependencies:
 
