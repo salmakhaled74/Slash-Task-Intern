@@ -30,9 +30,11 @@ Navigate to the project directory:
 cd 
 
 Install dependencies:
+```bash
 npm install
 
 Start the development server:
+``` bash
 npm run dev
 
 Open your browser and visit localhost to view the application.
