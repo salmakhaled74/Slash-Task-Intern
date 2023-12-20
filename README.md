@@ -76,7 +76,6 @@ Make sure you have Node.js and npm installed on your machine.
 Feel free to explore the codebase for more details on the implementation.
 
 ![Screenshot 2023-12-20 203854](https://github.com/salmakhaled74/Slash-Task-Intern/assets/77203008/1976dc8c-5dac-44d0-a23e-6e2ff4adda92)
-![Screenshot 2023-12-20 201357](https://github.com/salmakhaled74/Slash-Task-Intern/assets/77203008/50c8140e-4904-4709-9ea8-f17e7c004f96)
-![Screenshot 2023-12-20 201405](https://github.com/salmakhaled74/Slash-Task-Intern/assets/77203008/4a858476-aa99-4085-8d3f-020efb6c7ba4)
 ![Screenshot 2023-12-20 203904](https://github.com/salmakhaled74/Slash-Task-Intern/assets/77203008/4977312b-15b5-4851-8001-09c0d05f15ee)
+![Screenshot 2023-12-20 201405](https://github.com/salmakhaled74/Slash-Task-Intern/assets/77203008/4a858476-aa99-4085-8d3f-020efb6c7ba4)
 
