@@ -26,18 +26,23 @@ Make sure you have Node.js and npm installed on your machine.
    ```bash
    git clone https://github.com/salmakhaled74/Slash-Task-Intern.git
 
-Navigate to the project directory:
-cd 
+2. Navigate to the project directory:
 
-Install dependencies:
-    ```bash
-  npm install
+   ```bash
+   cd 
 
-Start the development server:
-   ``` bash
+3. Install dependencies:
+
+   ```bash
+   npm install
+   
+4. Start the development server:
+
+   ```bash
    npm run dev
 
-Open your browser and visit localhost to view the application.
+
+5. Open your browser and visit localhost to view the application.
 
 ### Project Structure
 src/components: Contains React components used in the project.
