@@ -57,10 +57,11 @@ src/pages: Includes pages of the website.
 
 #### Design Decisions:
 
-React and Vite: Chose React for building the user interface and Vite for its fast development server and optimized build process.  
-Global State Management: Utilized React context for managing global state, making it accessible to various components. 
-Component Structure: Organized components into a modular structure for better maintainability and reusability.  
-Responsive Design: Ensured a responsive design to provide a seamless experience across different devices.  
+React and Vite: Chose React for building the user interface and Vite for its fast development server and optimized build process.
+Global State Management: Utilized React context for managing global state, making it accessible to various components.
+Component Structure: Organized components into a modular structure for better maintainability and reusability.
+Responsive Design: Ensured a responsive design to provide a seamless experience across different devices.
+
 
 
 
