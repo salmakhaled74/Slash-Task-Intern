@@ -49,15 +49,15 @@ Make sure you have Node.js and npm installed on your machine.
 
 6. Open your browser and visit localhost to view the application.
 
+
 ### Project Structure
+
 src/components: Contains React components used in the project.  
 src/styles: Includes CSS styles for the components.  
 src/contexts: Manages global state using React context.  
 src/pages: Includes pages of the website.  
 
 #### Design Decisions:
-
-Design Decisions:
 
 React and Vite: Chose React for building the user interface and Vite for its fast development server and optimized build process.
 Global State Management: Utilized React context for managing global state, making it accessible to various components.
