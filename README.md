@@ -66,10 +66,10 @@ Responsive Design: Ensured a responsive design to provide a seamless experience 
 
 ##### Implementation Strategies:
 
-Data Fetching: Used the fetch API to retrieve product data from a backend server.
-Filtering: Implemented filtering functionality based on price and rating, allowing users to refine product listings.
-Routing: Utilized React Router for navigation, enabling smooth transitions between different views.
-Styling: Applied CSS styles to create a visually appealing and user-friendly interface.
+Data Fetching: Used the fetch API to retrieve product data from a backend server.  
+Filtering: Implemented filtering functionality based on price and rating, allowing users to refine product listings.  
+Routing: Utilized React Router for navigation, enabling smooth transitions between different views.  
+Styling: Applied CSS styles to create a visually appealing and user-friendly interface.  
 Asynchronous Operations: Handled asynchronous operations using async/await for a smoother user experience.
 
 Feel free to explore the codebase for more details on the implementation.
