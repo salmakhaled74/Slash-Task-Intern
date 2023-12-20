@@ -52,26 +52,26 @@ Make sure you have Node.js and npm installed on your machine.
 
 ### Project Structure
 
-src/components: Contains React components used in the project.  
-src/styles: Includes CSS styles for the components.  
-src/contexts: Manages global state using React context.  
-src/pages: Includes pages of the website.  
+-src/components: Contains React components used in the project.  
+-src/styles: Includes CSS styles for the components.  
+-src/contexts: Manages global state using React context.  
+-src/pages: Includes pages of the website.  
 
 #### Design Decisions:
 
-React and Vite: Chose React for building the user interface and Vite for its fast development server and optimized build process.
-Global State Management: Utilized React context for managing global state, making it accessible to various components.
-Component Structure: Organized components into a modular structure for better maintainability and reusability.
-Responsive Design: Ensured a responsive design to provide a seamless experience across different devices.
+-React and Vite: Chose React for building the user interface and Vite for its fast development server and optimized build process.
+-Global State Management: Utilized React context for managing global state, making it accessible to various components.
+-Component Structure: Organized components into a modular structure for better maintainability and reusability.
+-Responsive Design: Ensured a responsive design to provide a seamless experience across different devices.
 
 
 #### Implementation Strategies:
 
-Data Fetching: Used the fetch API to retrieve product data from a backend server.  
-Filtering: Implemented filtering functionality based on price and rating, allowing users to refine product listings.  
-Routing: Utilized React Router for navigation, enabling smooth transitions between different views.  
-Styling: Applied CSS styles to create a visually appealing and user-friendly interface.  
-Asynchronous Operations: Handled asynchronous operations using async/await for a smoother user experience.
+-Data Fetching: Used the fetch API to retrieve product data from a backend server.  
+-Filtering: Implemented filtering functionality based on price and rating, allowing users to refine product listings.  
+-Routing: Utilized React Router for navigation, enabling smooth transitions between different views.  
+-Styling: Applied CSS styles to create a visually appealing and user-friendly interface.  
+-Asynchronous Operations: Handled asynchronous operations using async/await for a smoother user experience.
 
 Feel free to explore the codebase for more details on the implementation.
 
