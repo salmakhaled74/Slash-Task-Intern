@@ -68,7 +68,7 @@ Responsive Design: Ensured a responsive design to provide a seamless experience 
 
 
 
-##### Implementation Strategies:
+#### Implementation Strategies:
 
 Data Fetching: Used the fetch API to retrieve product data from a backend server.  
 Filtering: Implemented filtering functionality based on price and rating, allowing users to refine product listings.  
