@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 # Online Shopping Website
 
-This project is an online shopping website built with React and Vite. It allows users to explore and filter products, view product details, and make purchases.
+This project is an online shopping website built with React and Vite. It allows users to explore and filter products and view product details.
 
 ## Getting Started
 
