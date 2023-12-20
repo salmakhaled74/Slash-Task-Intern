@@ -65,9 +65,6 @@ Component Structure: Organized components into a modular structure for better ma
 Responsive Design: Ensured a responsive design to provide a seamless experience across different devices.
 
 
-
-
-
 #### Implementation Strategies:
 
 Data Fetching: Used the fetch API to retrieve product data from a backend server.  
